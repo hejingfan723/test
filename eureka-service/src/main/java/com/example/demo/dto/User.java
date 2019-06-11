@@ -5,6 +5,8 @@ public class User {
 	private String id;
 	
 	private String name;
+	
+	private String class;
 
 	public String getId() {
 		return id;
@@ -23,6 +25,11 @@ public class User {
 	}
 
 
+	
+
+
+	
+	
 	
 	
 }
