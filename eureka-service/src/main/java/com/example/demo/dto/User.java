@@ -6,7 +6,9 @@ public class User {
 	
 	private String name;
 	
-	private String class;
+	private String sex;
+	
+	private String age;
 
 	public String getId() {
 		return id;
@@ -24,6 +26,15 @@ public class User {
 		this.name = name;
 	}
 
+	public String getSex() {
+		return sex;
+	}
+
+	public void setSex(String sex) {
+		this.sex = sex;
+	}
+
+	
 
 	
 
