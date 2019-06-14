@@ -26,8 +26,13 @@ public class User {
 		this.name = name;
 	}
 
+	public String getAge() {
+		return age;
+	}
 
-	
+	public void setAge(String age) {
+		this.age = age;
+	}
 	
 	
 	
