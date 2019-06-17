@@ -34,15 +34,6 @@ public class User {
 		this.sex = sex;
 	}
 
-	public String getAge() {
-		return age;
-	}
-
-	public void setAge(String age) {
-		this.age = age;
-	}
-	
-
 	
 	
 	
